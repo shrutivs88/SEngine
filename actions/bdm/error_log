@@ -1,0 +1,179 @@
+[18-May-2018 01:59:18 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/utility/DatabaseManager.php:27) in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchhomeforbdm.php on line 10
+[18-May-2018 02:00:37 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/utility/DatabaseManager.php:27) in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchhomeforbdm.php on line 10
+[18-May-2018 02:01:26 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/utility/DatabaseManager.php:27) in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchhomeforbdm.php on line 10
+[18-May-2018 02:02:27 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/utility/DatabaseManager.php:27) in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchhomeforbdm.php on line 10
+[18-May-2018 02:06:57 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/utility/DatabaseManager.php:27) in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchhomeforbdm.php on line 10
+[18-May-2018 02:27:49 CST6CDT] PHP Fatal error:  Call to undefined method MailTemplateService::getMailTemplateBasedOnId() in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchmessagetemplate.php on line 8
+[18-May-2018 02:29:53 CST6CDT] PHP Fatal error:  Call to undefined method MailTemplateService::getMailTemplateBasedOnId() in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchmessagetemplate.php on line 8
+[18-May-2018 02:29:56 CST6CDT] PHP Fatal error:  Call to undefined method MailTemplateService::getMailTemplateBasedOnId() in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchmessagetemplate.php on line 8
+[18-May-2018 02:29:58 CST6CDT] PHP Fatal error:  Call to undefined method MailTemplateService::getMailTemplateBasedOnId() in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchmessagetemplate.php on line 8
+[21-May-2018 02:30:13 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 620
+[21-May-2018 02:44:31 CST6CDT] PHP Fatal error:  Class 'ClientService' not found in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchclientcontact.php on line 5
+[21-May-2018 02:55:20 CST6CDT] PHP Fatal error:  Class 'ClientService' not found in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchclientlistforbdm.php on line 6
+[23-May-2018 10:29:39 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 712
+[23-May-2018 10:29:59 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:133) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 217
+[24-May-2018 04:30:54 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchinboxlistofmail.php on line 170
+[24-May-2018 04:36:11 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchinboxlistofmail.php on line 170
+[24-May-2018 04:36:54 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchinboxlistofmail.php on line 170
+[24-May-2018 04:37:39 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchinboxlistofmail.php on line 170
+[24-May-2018 04:42:09 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchinboxlistofmail.php on line 170
+[25-May-2018 11:28:54 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 712
+[26-May-2018 12:06:46 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 712
+[28-May-2018 09:54:24 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 609
+[01-Jun-2018 02:49:25 CST6CDT] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 116
+[01-Jun-2018 13:19:25 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 185
+[01-Jun-2018 13:19:25 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:116) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 215
+[01-Jun-2018 15:05:21 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 795
+[01-Jun-2018 15:05:31 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 795
+[01-Jun-2018 15:05:43 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:05:57 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:06:21 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 185
+[01-Jun-2018 15:06:21 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:185) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 217
+[01-Jun-2018 15:09:24 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 185
+[01-Jun-2018 15:09:24 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:185) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 217
+[01-Jun-2018 15:12:15 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 185
+[01-Jun-2018 15:12:15 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:185) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 217
+[01-Jun-2018 15:12:54 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 185
+[01-Jun-2018 15:12:54 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:185) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 217
+[01-Jun-2018 15:13:28 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 185
+[01-Jun-2018 15:13:28 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:185) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 217
+[01-Jun-2018 15:16:51 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:16:54 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:16:58 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:17:21 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:17:27 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:17:46 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:18:45 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 185
+[01-Jun-2018 15:18:45 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:185) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 217
+[01-Jun-2018 15:20:03 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:20:22 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:20:29 Asia/Kolkata] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 690
+[01-Jun-2018 15:32:45 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 185
+[01-Jun-2018 15:32:45 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:185) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 217
+[01-Jun-2018 05:08:18 CST6CDT] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 116
+[01-Jun-2018 15:38:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:116) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 215
+[01-Jun-2018 05:09:01 CST6CDT] PHP Notice:  Undefined index: sub in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 39
+[01-Jun-2018 05:09:01 CST6CDT] PHP Notice:  Undefined index: sub in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 45
+[01-Jun-2018 05:09:01 CST6CDT] PHP Notice:  Undefined index: msg in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 47
+[01-Jun-2018 05:09:01 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:39) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 246
+[01-Jun-2018 05:10:28 CST6CDT] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 116
+[01-Jun-2018 15:40:29 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:116) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 215
+[01-Jun-2018 05:15:20 CST6CDT] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 116
+[01-Jun-2018 15:45:20 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:116) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 217
+[01-Jun-2018 05:16:40 CST6CDT] PHP Parse error:  syntax error, unexpected '...' (T_ELLIPSIS) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 118
+[01-Jun-2018 05:17:17 CST6CDT] PHP Parse error:  syntax error, unexpected '...' (T_ELLIPSIS) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 118
+[01-Jun-2018 05:18:15 CST6CDT] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 117
+[01-Jun-2018 15:48:15 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:116) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 220
+[01-Jun-2018 05:21:10 CST6CDT] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 116
+[01-Jun-2018 15:51:10 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:116) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 222
+[01-Jun-2018 16:01:56 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 712
+[01-Jun-2018 16:01:59 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 712
+[01-Jun-2018 05:43:58 CST6CDT] PHP Fatal error:  Call to undefined method Contact::setPhone1() in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 658
+[01-Jun-2018 05:44:03 CST6CDT] PHP Fatal error:  Call to undefined method Contact::setPhone1() in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 658
+[01-Jun-2018 05:44:07 CST6CDT] PHP Fatal error:  Call to undefined method Contact::setPhone1() in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 658
+[02-Jun-2018 08:47:51 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 08:48:27 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 08:57:38 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 08:57:55 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[01-Jun-2018 22:35:58 CST6CDT] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 176
+[01-Jun-2018 22:35:58 CST6CDT] PHP Notice:  Trying to get property of non-object in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 177
+[01-Jun-2018 22:35:58 CST6CDT] PHP Notice:  Trying to get property of non-object in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 178
+[02-Jun-2018 09:05:58 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:176) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 235
+[02-Jun-2018 09:06:57 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:179) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 235
+[02-Jun-2018 09:10:57 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 09:44:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 222
+[02-Jun-2018 09:44:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 223
+[02-Jun-2018 09:44:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 224
+[02-Jun-2018 09:44:50 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:222) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 252
+[02-Jun-2018 09:50:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 222
+[02-Jun-2018 09:50:18 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 223
+[02-Jun-2018 09:50:18 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 224
+[02-Jun-2018 09:50:18 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:222) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 252
+[02-Jun-2018 09:50:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 223
+[02-Jun-2018 09:50:36 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 224
+[02-Jun-2018 09:50:36 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 225
+[02-Jun-2018 09:50:36 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:221) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 253
+[02-Jun-2018 09:51:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 224
+[02-Jun-2018 09:51:38 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 225
+[02-Jun-2018 09:51:38 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 226
+[02-Jun-2018 09:51:38 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:221) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 254
+[02-Jun-2018 09:52:59 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:221) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 254
+[02-Jun-2018 10:01:56 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 10:02:10 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 10:02:59 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[01-Jun-2018 23:38:20 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 625
+[02-Jun-2018 10:08:33 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 10:08:47 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 10:12:02 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 10:12:16 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 10:14:05 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[01-Jun-2018 23:53:15 CST6CDT] PHP Fatal error:  Call to undefined method ClientService::getClientContactById() in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchclientcontact.php on line 7
+[02-Jun-2018 10:24:22 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 724
+[02-Jun-2018 10:35:31 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 722
+[02-Jun-2018 00:21:53 CST6CDT] PHP Fatal error:  Class 'ClientService' not found in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchclientlistforbdm.php on line 6
+[02-Jun-2018 00:40:20 CST6CDT] PHP Parse error:  syntax error, unexpected ''client_contact_ca' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 315
+[02-Jun-2018 11:15:21 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 11:15:22 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 11:16:00 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 11:16:13 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 11:16:24 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 11:17:29 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 11:18:28 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 11:29:26 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:29:48 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:30:04 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:42:53 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:44:13 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 831
+[02-Jun-2018 11:44:43 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:45:35 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:46:18 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:46:35 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:47:21 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:51:03 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 831
+[02-Jun-2018 11:54:50 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:55:25 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:55:53 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:56:26 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 11:57:07 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 723
+[02-Jun-2018 01:38:09 CST6CDT] PHP Fatal error:  Class 'ClientService' not found in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchclientlistforbdm.php on line 6
+[02-Jun-2018 12:11:07 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 720
+[02-Jun-2018 12:11:10 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 720
+[02-Jun-2018 12:14:49 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 720
+[02-Jun-2018 12:14:57 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 720
+[02-Jun-2018 12:15:15 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 720
+[02-Jun-2018 12:20:26 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 720
+[02-Jun-2018 12:32:09 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 12:34:26 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 12:34:53 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 12:35:06 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 12:35:53 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 721
+[02-Jun-2018 12:36:38 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 826
+[02-Jun-2018 12:37:07 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 826
+[02-Jun-2018 12:37:33 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 826
+[02-Jun-2018 12:44:20 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 620
+[02-Jun-2018 12:46:11 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 620
+[02-Jun-2018 12:49:44 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 620
+[02-Jun-2018 13:04:07 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:04:20 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:11:23 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:12:54 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:17:02 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:18:06 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:29:44 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:30:09 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:31:09 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:31:31 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:32:04 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 13:47:47 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 14:18:43 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 14:19:38 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 14:22:31 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 14:23:12 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/pnrpoint/public_html/sengine/services/ClientService.php on line 725
+[02-Jun-2018 03:55:59 CST6CDT] PHP Fatal error:  Class 'ClientService' not found in /home/pnrpoint/public_html/sengine/actions/bdm/performfetchclientlistforbdm.php on line 6
+[02-Jun-2018 14:46:05 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:197) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 261
+[02-Jun-2018 14:47:52 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:217) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 259
+[02-Jun-2018 14:49:44 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:217) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 259
+[02-Jun-2018 04:19:49 CST6CDT] PHP Notice:  Undefined index: sub in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 39
+[02-Jun-2018 04:19:49 CST6CDT] PHP Notice:  Undefined index: sub in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 45
+[02-Jun-2018 04:19:49 CST6CDT] PHP Notice:  Undefined index: msg in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 47
+[02-Jun-2018 04:19:49 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php:39) in /home/pnrpoint/public_html/sengine/actions/bdm/performsendemail.php on line 291
